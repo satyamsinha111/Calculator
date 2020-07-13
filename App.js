@@ -1,4 +1,9 @@
-// import { StatusBar } from "expo-status-bar";
+//=======================================================================================//
+//                                    Calculator                                         //
+//                              Author ---- Satyam sinha                                 //
+//=======================================================================================//
+
+
 import React, { useState, useEffect } from "react";
 import { Text, View, TouchableOpacity, ToastAndroid } from "react-native";
 
